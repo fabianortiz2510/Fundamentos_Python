@@ -42,11 +42,10 @@ print(Tupla2[4][1])
 # %%
 #Listas
 
-A=[1,2,3,4,"Michael",True,"Hard Metal".split]
+A=[1,2,3,4,"Michael",True,"Hard Metal".split()]
 B=[1,6,8,14,"Jackson"]
 
 A.extend(["Pop","Rock"])
-
 print(A)
 
 C=A+B
@@ -54,6 +53,44 @@ print(C)
 
 del C[1]
 print(C)
+
+
+# %%
+#SETS
+
+A={"Rock",1,5,2,6,"Michael",5,16}
+B=[2,6,8]
+
+ConjuntoB=set(B)
+print(ConjuntoB)
+
+A.add("Jackson")
+A.remove("Rock")
+print(A)
+
+8 in ConjuntoB
+# %%
+#CONDICIONALES
+años=17
+
+if (años>=18):
+    print("puede ingresar al concierto")
+
+else:
+    print("No puede ingresar")
+
+#Manejo de elif
+
+edad = 18
+
+if edad < 13:
+    print("Eres un niño")
+elif edad < 18:
+    print("Eres un adolescente")
+elif edad < 65:
+    print("Eres un adulto")
+else:
+    print("Eres un adulto mayor")
 
 
 # %%
