@@ -70,6 +70,15 @@ print(A)
 
 8 in ConjuntoB
 # %%
+#DICCIONARIOS
+
+Diccionario1={"Clave1":5,"Clave2":"Hola","Clave3":[3,3,3]}
+a=Diccionario1["Clave3"]
+Diccionario1["Clave4"]=(2,5,6)
+print(a)
+print(Diccionario1)
+
+#%%
 #CONDICIONALES
 años=17
 
