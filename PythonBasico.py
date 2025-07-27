@@ -103,3 +103,12 @@ else:
 
 
 # %%
+#Loops
+Cuadrados=['Amarillo','Azul','Rojo','Marrón','Naraja','Morado']
+
+for i in range(0,3):
+    Cuadrados[i]='White'
+
+    print(Cuadrados)
+
+# %%
