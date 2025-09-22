@@ -1,3 +1,14 @@
 FUNDAMENTOS DE PYTHON
 
-En el presente código se presenta una introducción a lo fundamentos de programación en Python, la identificación de los diferentes tipos de variables
+Este proyecto presenta una introducción a lo fundamentos de programación en Python, la identificción de los diferentes tipos de variables, la diferentes maneras de respresentarlas y el porceso de ejecución y comporbación de los fundamentos realizados.
+
+Este coódigo contiene:
+
+- Tipos de Variables
+- Conversiones de Datos
+- Manejo de Strings
+- Tuplas - Listas - Sets - Diccionarios
+- Estructuras Condicionales
+- Bucles
+
+Este repositorio tiene como objetivo servir como guía de referencia para desarrolladores que quieran iniciar programación en Python mediante la manipulación de diferentes tipos de datos y sus estructuras.
