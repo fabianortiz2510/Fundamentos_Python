@@ -13,3 +13,5 @@ Bucles
 Este repositorio tiene como objetivo servir como guía de referencia para desarrolladores que quieran iniciar programación en Python mediante la manipulación de diferentes tipos de datos y sus estructuras. A continuación se observan cada una de los resultados obtenidos en la consola de cada uno de los coódigos segmentados que se han ejecutado.
 
 TIPOS DE VARIABLES
+
+imagenes/Tipos_de_Variables.png
