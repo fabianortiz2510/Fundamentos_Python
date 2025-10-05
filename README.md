@@ -14,4 +14,4 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
 
 TIPOS DE VARIABLES
 
-Imagenes/Tipos_de_Variables.png
+![Tipos de Variables](Imagenes/Tipos_de_Variables.png)
