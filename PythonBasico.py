@@ -10,13 +10,11 @@ e=str(b)
 f=int(c)
 g=int(x)
 
-print(d)
-print(e)
-print(f)
-print(g)
+print("El valor de a en tipo flotante es ",d)
+print("El valor de b en tipo string es", e)
+print("el valor de c en entero es",f)
+print("el valor de x en entero es",g)
 
-a=3
-print(a)
 
 # %%
 #MANEJO DE STRINGS
