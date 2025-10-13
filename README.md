@@ -14,4 +14,5 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
 
 TIPOS DE VARIABLES
 
+En este caso se declaran variables de tipo String, Enteros y Flotantes para realizar conversiones obteniendo los valores que se observan en la Figura.
 ![Tipos de Variables](Imagenes/Tipos_de_Variables.png)
