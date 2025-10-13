@@ -16,7 +16,7 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
 
   Se declaran variables de tipo String, Enteros y Flotantes para realizar conversiones obteniendo los valores que se observan en la Figura 1.
 
-![Figura 1.(imagenes/Tipos_de_variables.png)
+![Figura 1.(Imagenes/Tipos_de_variables.png)
 
 
   Figura 1. Resultado obtenido
