@@ -18,7 +18,7 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
 
 ![Tipos de Variables](Imagenes/Tipos_de_Variables.png)
 
-Figura 1. Resultado obtenido
+    Figura 1. Resultado obtenido
 
 * Manejo de Strings
 
