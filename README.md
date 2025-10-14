@@ -25,7 +25,7 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
 
   Se utilizan diferentes funciones que permiten obtener parámetro de la variable declarada, obteniendo los valores que se observa  en la Figura 2.
 
-![Figura 2.](Manejo_de_Strings.png)
+![Figura 2.](Imagenes/Manejo_de_Strings.png)
 
 
  Figura 2. Resultado obtenido
