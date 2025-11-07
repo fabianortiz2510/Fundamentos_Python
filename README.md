@@ -29,3 +29,9 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
 
 
  Figura 2. Resultado obtenido
+
+ * Tuplas
+   Se definen las tuplas como una lista de elementos separados por comas dentro de paréntesis, cuentan con la característica de ser inmutables (no se puede modificar su contenido) además de poder realizar     anidamiento.
+
+
+  
