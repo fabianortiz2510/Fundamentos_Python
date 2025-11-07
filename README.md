@@ -21,7 +21,7 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
 
   Figura 1. Resultado obtenido
 
-* Manejo de Strings
+* STRINGS
 
   Se utilizan diferentes funciones que permiten obtener y modificar parámetros de la variable declarada, obteniendo los valores que se observa  en la Figura 2.
 
@@ -30,12 +30,15 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
 
  Figura 2. Resultado obtenido
 
- * Tuplas
-   Se definen las tuplas como una lista de elementos separados por comas dentro de paréntesis, cuentan con la característica de ser inmutables (no se puede modificar su contenido) además de poder realizar     anidamiento.
+ * TUPLAS
+   Se definen las tuplas como una lista de elementos separados por comas dentro de paréntesis, cuentan con la característica de ser inmutables (no se puede modificar su contenido) además de poder realizar     anidamiento, obteniendo los valores que se observan en la Figura 3.
 
 ![Figura 3.](Imagenes/Tuplas.png)
 
 
  Figura 3. Resultado obtenido
 
+  * LISTAS
+    Cuentan con la misma estructura que las tuplas con paréntesis cuadrados pero estas si son mutables, obteniendo los valores que se observan en la Figura 4.
   
+![Figura 4.](Imagenes/Listas.png)
