@@ -19,7 +19,7 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
 ![Figura 1.](Imagenes/Tipos_de_variables.png)
 
 
-  Figura 1. Resultado obtenido
+  Figura 1. Resultado obtenido (Tipos de Variables)
 
 * STRINGS
 
@@ -28,7 +28,7 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
 ![Figura 2.](Imagenes/Manejo_de_Strings.png)
 
 
- Figura 2. Resultado obtenido
+ Figura 2. Resultado obtenido (Strings)
 
  * TUPLAS
    Se definen las tuplas como una lista de elementos separados por comas dentro de paréntesis, cuentan con la característica de ser inmutables (no se puede modificar su contenido) además de poder realizar     anidamiento, obteniendo los valores que se observan en la Figura 3.
@@ -36,7 +36,7 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
 ![Figura 3.](Imagenes/Tuplas.png)
 
 
- Figura 3. Resultado obtenido 
+ Figura 3. Resultado obtenido (Tuplas)
 
   * LISTAS
     Cuentan con la misma estructura que las tuplas con paréntesis cuadrados pero estas si son mutables, obteniendo los valores que se observan en la Figura 4.
@@ -44,7 +44,7 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
 ![Figura 4.](Imagenes/Listas.png)
 
 
-Figura 4. Resultado obtenido 
+Figura 4. Resultado obtenido (Listas)
 
   * SETS
     Igual que las listas, se pueden introducir diferenres tipos de datos, no están ordenados y contienen elementos únicos, obteniendo los valores que se observan en la Figura 5.
@@ -52,5 +52,5 @@ Figura 4. Resultado obtenido
 ![Figura 5.](Imagenes/Sets.png)
 
 
-Figura 5. Resultado Obtenido
+Figura 5. Resultado Obtenido (Sets)
 
