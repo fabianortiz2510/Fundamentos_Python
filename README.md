@@ -42,3 +42,6 @@ Este repositorio tiene como objetivo servir como guía de referencia para desarr
     Cuentan con la misma estructura que las tuplas con paréntesis cuadrados pero estas si son mutables, obteniendo los valores que se observan en la Figura 4.
   
 ![Figura 4.](Imagenes/Listas.png)
+
+  * SETS
+    Igual que las listas, se pueden introducir diferenres tipos de datos, no están ordenados y contienen elementos únicos, obteniendo los valores que se observan en la Figura 5.
