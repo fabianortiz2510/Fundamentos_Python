@@ -56,3 +56,7 @@ Figura 4. Resultado obtenido (Listas)
 
 Figura 5. Resultado Obtenido (Sets)
 
+  * DICCIONARIOS
+    
+    Se caracterizan por tener claves y valores, estas claves generalmente son caracteres, se obtienen los varoles que se observan en la Figura 6.
+
