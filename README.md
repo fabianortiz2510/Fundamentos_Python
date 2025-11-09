@@ -60,3 +60,4 @@ Figura 5. Resultado Obtenido (Sets)
     
     Se caracterizan por tener claves y valores, estas claves generalmente son caracteres, se obtienen los varoles que se observan en la Figura 6.
 
+![Figura 6.](Imagenes/Diccionarios.png)
