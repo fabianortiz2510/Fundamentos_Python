@@ -69,7 +69,7 @@ Figura 6. Resultado Obtenido (Diccionarios)
 
 
 
-
+<h2 align="center"> <b>INFORMACIÓN DEL AUTOR</b></h2>
 **Autor:** Fabián Leonardo Ortiz Cuevas
 
 **Profesión:** Ingeniero Electrónico – Especialista en Gestión Estratégica de Proyectos
