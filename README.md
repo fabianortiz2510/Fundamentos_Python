@@ -63,3 +63,9 @@ Figura 5. Resultado Obtenido (Sets)
     Se caracterizan por tener claves y valores, estas claves generalmente son caracteres, se obtienen los varoles que se observan en la Figura 6.
 
 ![Figura 6.](Imagenes/Diccionarios.png)
+
+
+**Autor:** Fabián Leonardo Ortiz Cuevas
+**Profesión:** Ingeniero Electrónico – Especialista en Gestión Estratégica de Proyectos
+**Enfoque:** Análisis de datos, automatización industrial y desarrollo tecnológico
+**Lenguaje:** Python 3.x
