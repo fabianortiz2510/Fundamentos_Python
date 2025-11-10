@@ -1,4 +1,4 @@
-FUNDAMENTOS DE PYTHON
+<h1 align="center"> FUNDAMENTOS DE PYTHON</h1>
 
 Este proyecto presenta una introducción a lo fundamentos de programación en Python, la identificción de los diferentes tipos de variables, la diferentes maneras de respresentarlas y el porceso de ejecución y comporbación de los fundamentos realizados.
 
