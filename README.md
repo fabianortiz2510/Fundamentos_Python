@@ -66,6 +66,9 @@ Figura 5. Resultado Obtenido (Sets)
 
 
 **Autor:** Fabián Leonardo Ortiz Cuevas
+
 **Profesión:** Ingeniero Electrónico – Especialista en Gestión Estratégica de Proyectos
+
 **Enfoque:** Análisis de datos, automatización industrial y desarrollo tecnológico
+
 **Lenguaje:** Python 3.x
